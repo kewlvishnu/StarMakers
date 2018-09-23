@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "name": "DoraHacks",
+        "picture": "https://www.crucial.com.au/blog/wp-content/uploads/2014/12/events_medium.jpg",
+        "date": 23,
+        "duration": "2 days",
+        "location": "Somerville"
+    },
+    {
+        "id": 1,
+        "name": "Harvard Club",
+        "picture": "https://www.crucial.com.au/blog/wp-content/uploads/2014/12/events_medium.jpg",
+        "date": 3,
+        "duration": "2 hours",
+        "location": "Cambridge"
+    }
+]
